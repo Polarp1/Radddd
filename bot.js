@@ -27,4 +27,4 @@ client.on('message', message => {
 
 // BOT TOKEN
 
-client.login(process.env.BOT_TOKEN);//BOT_TOKEN 
+client.login(process.env.DISCORD_BOT_TOKEN);//BOT_TOKEN 
